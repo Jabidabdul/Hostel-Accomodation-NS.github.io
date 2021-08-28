@@ -1,0 +1,62 @@
+.container{
+    align-self: center;
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top:70px;
+}
+.buttons{
+    display: flex;
+    height: 200px;
+    width: 400px;
+    /* background-color: greenyellow; */
+    margin-top:50px;
+    
+}
+.Girl{
+    
+    width: 400px;
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    padding-top: 40px;
+    opacity: 0.85;
+    background-color: grey;
+    margin-right: 20px;
+    /* display: block; */
+    font-size: 17px;
+    line-height: 20px;
+    padding-top: 80px;
+    /* text-decoration: none;  */
+}
+.Boy{
+    width: 400px;
+    /* margin-left:10% ; */
+    /* width: 80%; */
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    background-color: hotpink;
+    padding-top: 40px;
+    opacity: 0.85;
+    cursor: pointer;
+    margin-left: 20px;
+    padding-top: 80px;
+    /* display: block; */
+    font-size: 17px;
+    line-height: 20px;
+    /* text-decoration: none;  */
+}
+.Girl:hover{
+    opacity: 5;
+    border-radius: 30px;
+    /* background-color: solid rgb(180, 61, 61); */
+}
+.Boy:hover{
+    opacity: 5;
+    border-radius: 30px;
+    /* background-color: solid rgb(180, 61, 61); */
+}

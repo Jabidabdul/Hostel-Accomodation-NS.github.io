@@ -1,0 +1,30 @@
+.mainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top:100px;
+    /* height: 100vh; */
+    width: 100%;
+    /* background-color: lawngreen; */
+}
+.Box{
+    background-color: hotpink;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px green;
+}
+button{
+    height: 40px;
+    width: 70px;
+    margin:5px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(143, 88, 88);
+    color:honeydew;
+    border:none;
+    outline: none;
+    box-shadow: 2px 2px 2px 2px gray;
+}

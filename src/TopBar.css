@@ -1,0 +1,48 @@
+header{
+    background-color: aqua;
+    height: 70px;
+    position:relative;
+}
+.left-header{
+    position: absolute;
+    left:0px;
+    display: inline-flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.right-header{
+    
+    position: absolute;
+    right: 0px;
+    /* background-color: hotpink; */
+    width: 400px;
+    
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+}
+.right-header h2{
+    margin-right: 20px;
+}
+.right-header .photo{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 100px;
+    right:50px;
+    margin-right: 10px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: beige;
+    border-width: 10px;
+    border-color: chartreuse;
+}
+.right-header .logout{
+    outline: none;
+    border: none;
+    position: relative;
+    right: 0px;
+    border-radius: 30px;
+    text-decoration: none;
+    /* margin-right: 10px; */
+}

@@ -1,0 +1,22 @@
+.Hostel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    /* background-color: green; */
+}
+.roomBox{
+    margin-top:50px;
+    height: 250px;
+    width: 420px;
+    text-align: center;
+    background-color: hotpink;
+    box-shadow: 2px 3px 2px 3px gray;
+    border-radius: 10px;
+}
+#floor{
+    display: block;
+    margin-left: 170px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
