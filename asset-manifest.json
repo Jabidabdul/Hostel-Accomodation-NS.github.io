@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hostel-Accomodation-NS.github.io/static/css/main.112658eb.chunk.css",
+    "main.js": "/Hostel-Accomodation-NS.github.io/static/js/main.6b59d122.chunk.js",
+    "main.js.map": "/Hostel-Accomodation-NS.github.io/static/js/main.6b59d122.chunk.js.map",
+    "runtime-main.js": "/Hostel-Accomodation-NS.github.io/static/js/runtime-main.80c11116.js",
+    "runtime-main.js.map": "/Hostel-Accomodation-NS.github.io/static/js/runtime-main.80c11116.js.map",
+    "static/js/2.3ab67406.chunk.js": "/Hostel-Accomodation-NS.github.io/static/js/2.3ab67406.chunk.js",
+    "static/js/2.3ab67406.chunk.js.map": "/Hostel-Accomodation-NS.github.io/static/js/2.3ab67406.chunk.js.map",
+    "static/js/3.3ce3d586.chunk.js": "/Hostel-Accomodation-NS.github.io/static/js/3.3ce3d586.chunk.js",
+    "static/js/3.3ce3d586.chunk.js.map": "/Hostel-Accomodation-NS.github.io/static/js/3.3ce3d586.chunk.js.map",
+    "index.html": "/Hostel-Accomodation-NS.github.io/index.html",
+    "static/css/main.112658eb.chunk.css.map": "/Hostel-Accomodation-NS.github.io/static/css/main.112658eb.chunk.css.map",
+    "static/js/2.3ab67406.chunk.js.LICENSE.txt": "/Hostel-Accomodation-NS.github.io/static/js/2.3ab67406.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80c11116.js",
+    "static/js/2.3ab67406.chunk.js",
+    "static/css/main.112658eb.chunk.css",
+    "static/js/main.6b59d122.chunk.js"
+  ]
+}
